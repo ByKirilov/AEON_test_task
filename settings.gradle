@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "AEON_test_task"
